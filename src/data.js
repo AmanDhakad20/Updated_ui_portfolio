@@ -14,7 +14,7 @@ export const NAV = [
 ];
 
 export const FACTS = [
-  ['Current role', 'Software Engineer, LTIMindtree'],
+  ['Current role', 'Software Engineer, LTM'],
   ['Main stack', 'Java, Spring Boot, React, Angular'],
   ['Certified in', 'Java SE 11, Apache Spark'],
   ['Degree', 'B.Tech, Computer Science, 2024'],

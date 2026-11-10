@@ -61,7 +61,7 @@ export default function Experience() {
   return (
     <Section id="experience" title="Experience" color="pink">
       <div className="company">
-        <h3>LTIMindtree, Mumbai</h3>
+        <h3>LTM, Mumbai</h3>
         <p>Software Engineer · Dec 2024 – Present</p>
       </div>
       <div className="proj-list">

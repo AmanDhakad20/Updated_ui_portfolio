@@ -27,7 +27,7 @@ export default function App() {
       <footer>
         <div className="wrap">
           <span>Aman Dhakad</span>
-          <span>Built with React</span>
+          <span>Be the change</span>
         </div>
       </footer>
       <ScrollTruck />

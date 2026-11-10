@@ -7,7 +7,7 @@ export default function About() {
     <Section id="about" title="About" color="violet">
       <div className="about-text">
         <p>
-          I’m a software engineer at LTIMindtree, working on banking applications for Citi. My work covers Java and
+          I’m a software engineer at LTM, working on banking applications for Citi. My work covers Java and
           Spring Boot services, React and Angular frontends, and the production side that keeps them reliable, from
           CI/CD on OpenShift to Hadoop–Spark file transfers.
         </p>

@@ -91,7 +91,7 @@ export default function Hero() {
             <p className="typing rise d2">
               I build <Typewriter words={WORDS} />
             </p>
-            <p className="role rise d2">Software engineer at LTIMindtree, Mumbai.</p>
+            <p className="role rise d2">Software engineer at LTM, Mumbai.</p>
             <p className="sub rise d2">
               Applications for Citi in Java, Spring Boot, React and Angular, kept running in production.
             </p>
